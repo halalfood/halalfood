@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammad
+- 👋 Hi, I’m @Moha
 
 <!---
 halalfood/halalfood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
